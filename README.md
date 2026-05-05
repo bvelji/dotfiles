@@ -3,7 +3,7 @@
 Default location: ~/.config/karabiner
 
 ```
-ln -sf ~/dotconfig/karabiner/karabiner.json ~/.config/karabiner/karabiner.json
+mv -f ~/dotconfig/karabiner/karabiner.json ~/.config/karabiner/karabiner.json
 ```
 
 
